@@ -1,0 +1,7 @@
+numpy==1.24.4
+pyarrow==11.0.0
+polars
+scikit-learn
+lightgbm
+glob
+pathlib
